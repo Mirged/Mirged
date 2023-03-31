@@ -8,7 +8,7 @@ Here are some of my skills:
 
 - **Programming languages:** Python, C#
 
-- **Tools:** Git, Visual Studio Code, 
+- **Tools:** Git, Visual Studio Code, Mono
 
 ## 📫 How to reach me
 
