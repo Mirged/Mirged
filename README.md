@@ -6,7 +6,7 @@ Welcome to my Github profile! My name is Dashiell. I'm a beginner programmer who
 
 Here are some of my skills:
 
-- **Programming languages:** Python, C#
+- **Programming languages:** Python, C#, C
 
 - **Tools:** Git, Visual Studio Code, Mono
 
