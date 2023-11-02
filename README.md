@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my Github profile! My name is Dashiell. I'm a beginner programmer who's interested in learning more about the world of computer science.
+Welcome to my Github profile! My name is [REDACTED]. I'm a beginner programmer who's interested in learning more about the world of computer science.
 
 ## 🌱 Skills
 
