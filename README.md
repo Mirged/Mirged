@@ -10,6 +10,8 @@ Here are some of my skills:
 
 - **Tools:** Git, Visual Studio Code, Mono
 
+- **Learning:** Rust
+
 ## 📫 How to reach me
 
 Feel free to connect with me on [Reddit](https://www.reddit.com/user/mirged/) to chat about anything related to programming or computer science. You can also email me at ntaip004@gmail.com for any inquiries.
